@@ -17,7 +17,6 @@ This repository contains the datasets, source code, and supplementary materials 
 
 ## 🚀 Key Findings
 - **Best Index:** MSAVI ($r=0.80$) proved superior to NDVI for open-canopy pineapple crops.
-- **Model Accuracy:** The multimodal Random Forest model achieved an RMSE of 0.02 (normalized).
 - **Operational Tool:** A "Traffic Light" system was developed to classify crop status into Stress, Optimum, or Saturation.
 
 ## 📧 Contact
